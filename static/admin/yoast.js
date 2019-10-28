@@ -1,6 +1,6 @@
 CMS.registerPreviewStyle('https://unpkg.com/netlify-cms-yoast-seo@~1.0/dist/main.css');
 
-CMS.registerPreviewTemplate('page', createClass({
+CMS.registerPreviewTemplate('pages', createClass({
     render: function () {
         const entry = this.props.entry
         const title = entry.getIn(['data', 'title']) || ''
