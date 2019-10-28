@@ -5,7 +5,7 @@ media_folder: static/img
 collections:
   - name: "pages"
     label: "Pages"
-    folder: "pages"
+    folder: "content"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
