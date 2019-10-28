@@ -5,6 +5,7 @@ media_folder: static/img
 collections:
   - name: "pages"
     label: "Pages"
+    create: true
     files:
     - label: "Home"
       name: "home"
