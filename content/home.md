@@ -16,13 +16,15 @@ description: >-
   This is a markdown file with a demonstration about the cats of the internet. I
   have a fair bit more space to type in here, so I will go.
 ---
-Welcome to [my awesome](home) demonstration page about cats of the internet.
+Welcome to my awesome demonstration page about cats of the internet.
 
 # This page is built with NextJS, and content is managed in Netlify CMS.
 
 This page is built with [NextJS](https://nextjs.org/), and content is managed in Netlify CMS. This page is built with NextJS, and content is managed in Netlify CMS. This page is built with NextJS, and content is managed in Netlify CMS. This page is built with NextJS, and content is managed in Netlify CMS.
 
 This page is built with NextJS, and content is managed in Netlify CMS. This page is built with NextJS, and content is managed in Netlify CMS. This page is built with NextJS, and content is managed in Netlify CMS. This page is built with NextJS, and content is managed in Netlify CMS.
+
+<div style="color:red">Redn<span style="position:relative; top:-5px">ess</span></div>
 
 ## wow.
 
